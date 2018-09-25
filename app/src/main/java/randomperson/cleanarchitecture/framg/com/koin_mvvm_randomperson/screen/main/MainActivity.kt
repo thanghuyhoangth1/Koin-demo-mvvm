@@ -1,7 +1,8 @@
-package randomperson.cleanarchitecture.framg.com.koin_mvvm_randomperson
+package randomperson.cleanarchitecture.framg.com.koin_mvvm_randomperson.screen.main
 
 import android.support.v7.app.AppCompatActivity
 import android.os.Bundle
+import randomperson.cleanarchitecture.framg.com.koin_mvvm_randomperson.R
 
 class MainActivity : AppCompatActivity() {
 
